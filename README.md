@@ -14,8 +14,8 @@
     📓 I'm currently on my 3rd year of Computer Engineering.
 </p>
 
-<div class="markdown-heading" dir="auto">
-    <h3 align="left" class="heading-element" dir="auto">Languages:</h3>
+<div>
+    <h3 align="left">Languages:</h3>
     <a class="anchor" aria-label="Permalink: Languages and Tools:" href="#languages"></a>
     <!-- C++, Bash, Python, HTML, CSS, PHP, JS, Java, Dart -->
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" rel="nofollow"> 
@@ -47,9 +47,9 @@
 
 <br/>
 
-<div class="markdown-heading" dir="auto">
-    <h3 align="left" class="heading-element" dir="auto">Tools Used:</h3>
-    <a id="user-content-languages-and-tools" class="anchor" aria-label="Permalink: Languages and Tools:" href="tools"> </a>
+<div>
+    <h3 align="left">Tools Used:</h3>
+    <a class="anchor" aria-label="Permalink: Languages and Tools:" href="tools"> </a>
     <!-- OracleSQL, MongoDB, PostgreSQL -->
     <a href="https://en.wikipedia.org/wiki/Oracle_Database" rel="nofollow"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/330px-Oracle_logo.svg.png" alt="oracledb" width="120" height="25" style="max-width: 100%;"> 
@@ -62,14 +62,14 @@
     </a> 
 </div>
 
-<!-- <div class="markdown-heading" dir="auto">
-    <h3 align="left" class="heading-element" dir="auto">Review my latest projects at:</h3>
+<!-- <div>
+    <h3 align="left">Review my latest projects at:</h3>
 </div> -->
 
 <br/>
 
-<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Connect with me!</h3><a id="user-content-connect-with-me" class="anchor" aria-label="Permalink: Connect with me:" href="#connect-with-me">
-    <p align="center" dir="auto">
+<div><h3 align="center">Connect with me!</h3><aclass="anchor" aria-label="Permalink: Connect with me:" href="#connect-with-me">
+    <p align="center" >
     <a href="https://www.linkedin.com/in/arnau-munoz-barrera/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnaumuñozbarrera" height="30" width="40" style="max-width: 100%;"></a>
     </p>
 </div>
