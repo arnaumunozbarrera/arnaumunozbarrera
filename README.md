@@ -13,13 +13,13 @@
     Constantly seeking new challenges and opportunities to expand my skills and show my knowledge!
 </h3>
 
-<p>
+<h4>
     ⏳ In my free time, I enjoy coding personal projects challenging myself to learn something new or master it.
     <br/>   
     🎯 Keep improving & enjoy programming.
     <br/>
     📓 I'm currently on my 3rd year of Computer Engineering.
-</p>
+</h4>
 
 <div>
     <h3 align="left">Languages:</h3>
