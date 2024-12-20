@@ -8,18 +8,17 @@
 </p>
 <h1 align="center">Hey! 👋, <br/> I’m Arnau</h1>
 
-<h3 style="justify-content: left; font-weight: bold;">
+<h2 style="justify-content: left; font-weight: bold;">
     A passionate Front-End developer with a love for programming. Dedicated to crafting efficient and elegant solutions across the web.
     Constantly seeking new challenges and opportunities to expand my skills and show my knowledge!
-</h3>
-
-<h4>
+</h2>
+<h3>
     ⏳ In my free time, I enjoy coding personal projects challenging myself to learn something new or master it.
     <br/>   
     🎯 Keep improving & enjoy programming.
     <br/>
     📓 I'm currently on my 3rd year of Computer Engineering.
-</h4>
+</h3>
 
 <div>
     <h3 align="left">Languages:</h3>
