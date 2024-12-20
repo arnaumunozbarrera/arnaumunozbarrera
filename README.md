@@ -1,4 +1,11 @@
-
+<!-- <a align="center" target="_blank" rel="noopener noreferrer nofollow" href="https://media.licdn.com/dms/image/v2/D4D03AQGBzRz0xuWLqg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1732448314847?e=1740009600&v=beta&t=4NJbJleeGQ5cj_QbIccSCdVOtPc__oeeXK2j9UrhY6U">
+</a> -->
+<p align="center" style="margin-bottom: 20px;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D03AQGBzRz0xuWLqg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1732448314847?e=1740009600&v=beta&t=4NJbJleeGQ5cj_QbIccSCdVOtPc__oeeXK2j9UrhY6U" 
+         alt="arnau" 
+         width="200" 
+         style="max-width: 100%;">
+</p>
 <h1 align="center">Hey! 👋, <br/> I’m Arnau</h1>
 
 <h3 style="justify-content: left; font-weight: bold;">
