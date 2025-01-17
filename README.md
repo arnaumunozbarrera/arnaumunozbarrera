@@ -35,7 +35,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-[![](https://github-readme-stats.vercel.app/api?username=arnaumunozbarrera&show_icons=true&theme=tokyonight&locale=en)](https://github.com/arnaumunozbarrera)
+[![](https://github-readme-stats.vercel.app/api?username=arnaumunozbarrera&show_icons=true&theme=material-palenight&locale=en)](https://github.com/arnaumunozbarrera)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=arnaumunozbarrera&theme=material-palenight)](https://github.com/arnaumunozbarrera)
 </div>
 
