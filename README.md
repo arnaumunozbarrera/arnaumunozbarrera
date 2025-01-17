@@ -41,4 +41,4 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Lifetime Stats </b>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaumunozbarrera&theme=dark&hide_border=false&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=20" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaumunozbarrera&theme=dark&hide_border=false&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=10"/>
