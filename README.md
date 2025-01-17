@@ -1,8 +1,9 @@
 <h1 align="center"><b>Hey, I'm Arnau Muñoz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="190" style="margin: 10px;">
 
+</br>
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development.
-Dedicated to crafting efficient and elegant solutions across the web. Constantly seeking new challenges and opportunities to expand my skills and show my knowledge!
+I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. Dedicated to crafting efficient and elegant solutions across the web. Constantly seeking new challenges and opportunities to expand my skills and show my knowledge!
 - 🎯 Keep improving & enjoy programming.
 - 👯 I’m looking forward to collaborate on open source projects.
 - 📫 Connect with me! <a href="arnaumunozbarrera@gmail.com">arnaumunozbarrera@gmail.com</a>
@@ -20,7 +21,6 @@ Dedicated to crafting efficient and elegant solutions across the web. Constantly
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-
 </span>
 
 <h4> Other Tools and Technologies </h4>
