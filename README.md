@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Arnau Muñoz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hey, I'm Arnau Muñoz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development.
@@ -7,7 +7,7 @@ Dedicated to crafting efficient and elegant solutions across the web. Constantly
 - 👯 I’m looking forward to collaborate on open source projects.
 - 📫 Connect with me! <a href="arnaumunozbarrera@gmail.com">arnaumunozbarrera@gmail.com</a>
 
-## My Skills Include
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <h4> Languages </h4>
 
@@ -33,8 +33,12 @@ Dedicated to crafting efficient and elegant solutions across the web. Constantly
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </span>
 
-<h2>Github stats:</h2> 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 [![](https://github-readme-stats.vercel.app/api?username=arnaumunozbarrera&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/arnaumunozbarrera)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=arnaumunozbarrera&theme=material-palenight)](https://github.com/arnaumunozbarrera)
 </div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Lifetime Stats </b>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaumunozbarrera&theme=dark&hide_border=false&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=20" />
