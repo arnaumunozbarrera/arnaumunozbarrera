@@ -7,6 +7,9 @@ I am a computer engineering student, currently halfway through my degree. I am e
 - 🎯 Keep improving & enjoy programming.
 - 👯 I’m looking forward to collaborate on open source projects.
 - 📫 Connect with me! <a href="arnaumunozbarrera@gmail.com">arnaumunozbarrera@gmail.com</a>
+</br>
+<strong> Checkout my personal Website at: <a href="https://arnaumb-dev.netlify.app/"> Arnau's Portfolio</a>!</strong>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
