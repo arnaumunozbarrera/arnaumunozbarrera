@@ -43,3 +43,8 @@ I am a computer engineering student, currently halfway through my degree. I am e
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Lifetime Stats </b>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaumunozbarrera&theme=tokyonight&hide_border=false&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=10"/>
+
+## 
+
+<img src="https://github.com/arnaumunozbarrera/CV-Portfolio/blob/aff15994ea22efeffcc33327b3fa00737c9db58e/Arnau%20Mu%C3%B1oz.png" width="1200">
+
