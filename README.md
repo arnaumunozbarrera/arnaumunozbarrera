@@ -47,6 +47,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Bitbucket-2680F8?style=for-the-badge&logo=bitbucket&logoColor=white">
   <img src="https://img.shields.io/badge/jira-2680F8.svg?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Asana-690031.svg?style=for-the-badge&logo=asana&logoColor=white">
   <img src="https://img.shields.io/badge/Confluence-2680F8?style=for-the-badge&logo=confluence&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-E91E63?style=for-the-badge&logo=slack&logoColor=white">
   
