@@ -10,28 +10,46 @@ I am a computer engineering student, currently halfway through my degree. I am e
 </br>
 <strong> Checkout my personal Website at: <a href="https://arnaumb-dev.netlify.app/"> Arnau's Portfolio</a>!</strong>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Job Experience </b>
+<h4> Frontend </h4>
+<span> 
+  <img src="https://img.shields.io/badge/React-3670A0?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Clerk-37474F?style=for-the-badge&logo=clerk&logoColor=white">
+</span>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<h4> Backend </h4>
+<span>
+  <img src="https://img.shields.io/badge/Node.js-388E3C?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-37474F?style=for-the-badge&logo=supabase&logoColor=green">
+  <img src="https://img.shields.io/badge/Supabase-1A1818?style=for-the-badge&logo=prisma&logoColor=white">
+</span>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills </b>
 
 <h4> Languages </h4>
-
 <span> 
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/React-3670A0?style=for-the-badge&logo=react&logoColor=white">
 </span>
 
-<h4> Other Tools and Technologies </h4>
-
+<h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+</span>
+
+<h4> Tools </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Bitbucket-2680F8?style=for-the-badge&logo=bitbucket&logoColor=white">
+  <img src="https://img.shields.io/badge/jira-2680F8.svg?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Confluence-2680F8?style=for-the-badge&logo=confluence&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-E91E63?style=for-the-badge&logo=slack&logoColor=white">
+  
 </span>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
