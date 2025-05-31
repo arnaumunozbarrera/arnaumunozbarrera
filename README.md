@@ -21,7 +21,8 @@ I am a computer engineering student, currently halfway through my degree. I am e
 <span>
   <img src="https://img.shields.io/badge/Node.js-388E3C?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Supabase-37474F?style=for-the-badge&logo=supabase&logoColor=green">
-  <img src="https://img.shields.io/badge/Supabase-1A1818?style=for-the-badge&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/Prisma-1A1818?style=for-the-badge&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/Upstash-60a78d?style=for-the-badge&logo=upstash&logoColor=white">
 </span>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills </b>
