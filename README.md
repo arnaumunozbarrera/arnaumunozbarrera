@@ -34,6 +34,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/React Native-3670A0?style=for-the-badge&logo=react&logoColor=white">
 </span>
 
 <h4> Databases </h4>
@@ -51,7 +52,6 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/Asana-690031.svg?style=for-the-badge&logo=asana&logoColor=white">
   <img src="https://img.shields.io/badge/Confluence-2680F8?style=for-the-badge&logo=confluence&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-E91E63?style=for-the-badge&logo=slack&logoColor=white">
-  
 </span>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
