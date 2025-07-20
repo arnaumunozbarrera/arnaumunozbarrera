@@ -54,6 +54,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/Asana-690031.svg?style=for-the-badge&logo=asana&logoColor=white">
   <img src="https://img.shields.io/badge/Confluence-2680F8?style=for-the-badge&logo=confluence&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-E91E63?style=for-the-badge&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white">
 </span>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
