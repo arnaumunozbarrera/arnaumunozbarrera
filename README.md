@@ -46,6 +46,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 <h4> Tools </h4>
 <span>
+  <img src="https://img.shields.io/badge/Docker-2680F8?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Bitbucket-2680F8?style=for-the-badge&logo=bitbucket&logoColor=white">
   <img src="https://img.shields.io/badge/jira-2680F8.svg?style=for-the-badge&logo=jira&logoColor=white">
