@@ -72,7 +72,11 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Lifetime Stats </b>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaumunozbarrera&theme=tokyonight&hide_border=false&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=10"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaumunozbarrera&theme=tokyonight&hide_border=false&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=10" width="48%" />
+  <img src="./hackaton_badge.svg" alt="UAB Hackaton Winner" width="48%" />
+</p>
+
 
 ## 
 
