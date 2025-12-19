@@ -80,5 +80,5 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 ## 
 
-<img src="https://github.com/arnaumunozbarrera/CV-Portfolio/blob/aff15994ea22efeffcc33327b3fa00737c9db58e/Arnau%20Mu%C3%B1oz.png" width="1200">
+<img src="https://github.com/arnaumunozbarrera/CV-Portfolio/blob/main/src/assets/me/Banner.png" width="1200">
 
