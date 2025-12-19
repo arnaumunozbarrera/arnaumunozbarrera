@@ -3,7 +3,7 @@
 
 </br>
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. Dedicated to crafting efficient and elegant solutions across the web. Constantly seeking new challenges and opportunities to expand my skills and show my knowledge!
+I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in back-end development. Dedicated to crafting efficient and elegant solutions across the systems. Constantly seeking new challenges and opportunities to expand my skills and show my knowledge!
 - 🎯 Keep improving & enjoy programming.
 - 👯 I’m looking forward to collaborate on open source projects.
 - 📫 Connect with me! <a href="arnaumunozbarrera@gmail.com">arnaumunozbarrera@gmail.com</a>
