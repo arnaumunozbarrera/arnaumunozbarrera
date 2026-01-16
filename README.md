@@ -3,7 +3,9 @@
 
 </br>
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in back-end development. Dedicated to crafting efficient and elegant solutions across the systems. Constantly seeking new challenges and opportunities to expand my skills and show my knowledge!
+I am a Computer Engineering student committed to improving interactions between people and technology. With skills in conflict resolution, I approach challenges collaboratively. Passionate about new technology and creating interactive visuals, I enjoy refining my creativity and transforming concepts into engaging digital experiences. I am eager to contribute Data Analytics related development with the intention of enhancing user experience & improve system performance.
+
+By the time I complete my degree, I will be looking forward to enrolling in a Master's program to further advance my expertise in Data Science development.
 - 🎯 Keep improving & enjoy programming.
 - 👯 I’m looking forward to collaborate on open source projects.
 - 📫 Connect with me! <a href="arnaumunozbarrera@gmail.com">arnaumunozbarrera@gmail.com</a>
