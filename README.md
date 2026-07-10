@@ -3,9 +3,9 @@
 
 </br>
 
-I am a Computer Engineering student committed to improving interactions between people and technology. With skills in conflict resolution, I approach challenges collaboratively. Passionate about new technology and creating interactive visuals, I enjoy refining my creativity and transforming concepts into engaging digital experiences. I am eager to contribute Data Analytics related development with the intention of enhancing user experience & improve system performance.
+I am a Computer Engineer committed to improving interactions between people and technology. With skills in conflict resolution, I approach challenges collaboratively. Passionate about new technology and creating interactive visuals, I enjoy refining my creativity and transforming concepts into engaging digital experiences. I am eager to contribute Data Analytics related development with the intention of enhancing user experience & improve system performance.
 
-By the time I complete my degree, I will be looking forward to enrolling in a Master's program to further advance my expertise in Data Science development.
+Currently enrolled in a Master's program in Data Science to further advance my expertise.
 - 🎯 Keep improving & enjoy programming.
 - 👯 I’m looking forward to collaborate on open source projects.
 - 📫 Connect with me! <a href="arnaumunozbarrera@gmail.com">arnaumunozbarrera@gmail.com</a>
